@@ -19,7 +19,7 @@ const i18nHead = useLocaleHead({ seo: true })
 useHead(() => ({
   htmlAttrs: { lang: i18nHead.value.htmlAttrs!.lang },
   link: [...(i18nHead.value.link || [])],
-  title: t('title' as ULocaleKey),
+  title: t('core.title' as ULocaleKey),
   meta: [
     // { name: 'theme-color', content: themeHandler.value },
     ...(i18nHead.value.meta || []),

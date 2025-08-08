@@ -41,7 +41,7 @@ export default defineNuxtConfig({
 
    i18n: {
     strategy: 'no_prefix',
-    defaultLocale: 'ru',
+    defaultLocale: 'en',
     baseUrl: import.meta.env.DEV ? 'http://localhost:3000/' : 'https://weatherappbulyginnikita.netlify.app/',
     locales: [
       { code: 'en', name: 'English', language: 'en', file: 'en.ts' },
