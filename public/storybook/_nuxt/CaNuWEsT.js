@@ -1,0 +1,1 @@
+import{S as r,o as a}from"./EtfM6F04.js";import"./D9Z9MdNV.js";const p=(e,t)=>{const o=e.__vccOpts||e;for(const[n,c]of t)o[n]=c;return o},s={};function _(e,t){return a(),r("h1",null,"Test")}const d=p(s,[["render",_]]);s.__docgenInfo={displayName:"pages",description:"",tags:{},sourceFiles:["/home/BNik_ssh/weatherApp/app/pages/index.vue"]};export{d as default};

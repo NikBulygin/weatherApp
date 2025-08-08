@@ -1,0 +1,1 @@
+import{S as o,o as e,r as l}from"./EtfM6F04.js";import{A as t}from"./B3FH9UnZ.js";const s={},c={class:"custom-scroll flex flex-col pr-0 *:border-t *:first:border-t-0 xl:flex-row *:xl:border-t-0 *:xl:border-l *:first:xl:border-l-0"};function f(r,n){return e(),o("div",c,[l(r.$slots,"default")])}const a=t(s,[["render",f]]);export{a as x};

@@ -1,0 +1,18 @@
+[build]
+  command = "NODE_OPTIONS='--max-old-space-size=4096' bun run build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "20"
+  BUILD_STORYBOOK = "true"
+  COPY_TO_DIST = "true"
+
+[[redirects]]
+  from = "/storybook/*"
+  to = "/storybook/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200 

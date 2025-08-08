@@ -1,31 +1,29 @@
 <template>
-  <div class="min-h-screen bg-gradient-to-br from-blue-400 via-blue-500 to-purple-600 p-4">
-    <div class="max-w-4xl mx-auto">
-      <header class="text-center mb-8">
-        <h1 class="text-4xl font-bold text-white mb-2">
-          🌤️ Weather Forecast
-        </h1>
-        <p class="text-blue-100 text-lg">
-          Search for locations and get current weather conditions
-        </p>
-      </header>
-      
-      <WeatherForecast />
-    </div>
-  </div>
+  <UApp>
+    <NuxtLayout>
+      <NuxtPage />
+    </NuxtLayout>
+  </UApp>
 </template>
 
-<script setup>
-// Main app component
+
+<script setup lang="ts">
+import { computed } from 'vue'
+import { useI18n } from 'vue-i18n'
+const { t } = useI18n()
+const i18nHead = useLocaleHead({ seo: true })
+// const colorMode = useColorMode()
+
+// const themeHandler = computed(() => (colorMode.value === 'dark' ? '#0c0c0d' : '#ffffff'))
+
+useHead(() => ({
+  htmlAttrs: { lang: i18nHead.value.htmlAttrs!.lang },
+  link: [...(i18nHead.value.link || [])],
+  title: t('title' as ULocaleKey),
+  meta: [
+    // { name: 'theme-color', content: themeHandler.value },
+    ...(i18nHead.value.meta || []),
+    { name: 'description', content: t('core.desc') },
+  ],
+}))
 </script>
-
-<style>
-body {
-  margin: 0;
-  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
-}
-
-* {
-  box-sizing: border-box;
-}
-</style>

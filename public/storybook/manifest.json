@@ -1,0 +1,681 @@
+{
+  "_8Bdf1-2c.js": {
+    "file": "_nuxt/8Bdf1-2c.js",
+    "name": "ScalarAsciiArt.vue",
+    "imports": [
+      "iframe.html",
+      "_B3FH9UnZ.js"
+    ]
+  },
+  "_B3FH9UnZ.js": {
+    "file": "_nuxt/B3FH9UnZ.js",
+    "name": "ScalarApiReference",
+    "imports": [
+      "iframe.html",
+      "_CqkleIqs.js",
+      "_D9Z9MdNV.js",
+      "_Bjgmnvuu.js",
+      "_m9QqqGtk.js"
+    ],
+    "dynamicImports": [
+      "node_modules/@scalar/api-client/dist/views/Request/RequestRoot.vue.js",
+      "node_modules/@scalar/api-client/dist/views/Request/Request.vue.js",
+      "node_modules/@scalar/api-client/dist/views/Request/Request.vue.js",
+      "node_modules/@scalar/api-client/dist/views/Collection/Collection.vue.js",
+      "node_modules/@scalar/api-client/dist/views/Collection/CollectionOverview.vue.js",
+      "node_modules/@scalar/api-client/dist/views/Collection/CollectionServers.vue.js",
+      "node_modules/@scalar/api-client/dist/views/Collection/CollectionServers.vue.js",
+      "node_modules/@scalar/api-client/dist/views/Collection/CollectionEnvironment.vue.js",
+      "node_modules/@scalar/api-client/dist/views/Collection/CollectionAuthentication.vue.js",
+      "node_modules/@scalar/api-client/dist/views/Collection/CollectionCookies.vue.js",
+      "node_modules/@scalar/api-client/dist/views/Collection/CollectionScripts.vue.js",
+      "node_modules/@scalar/api-client/dist/views/Collection/CollectionSync.vue.js",
+      "node_modules/@scalar/api-client/dist/views/Collection/CollectionSettings.vue.js",
+      "node_modules/@scalar/api-client/dist/views/Environment/Environment.vue.js",
+      "node_modules/@scalar/api-client/dist/views/Environment/Environment.vue.js",
+      "node_modules/@scalar/api-client/dist/views/Cookies/Cookies.vue.js",
+      "node_modules/@scalar/api-client/dist/views/Settings/Settings.vue.js"
+    ],
+    "css": [
+      "_nuxt/ScalarApiReference.CrAIpIws.css"
+    ]
+  },
+  "_BHYXsEvg.js": {
+    "file": "_nuxt/BHYXsEvg.js",
+    "name": "Draggable.vue",
+    "imports": [
+      "iframe.html"
+    ]
+  },
+  "_BLnBc-s6.js": {
+    "file": "_nuxt/BLnBc-s6.js",
+    "name": "DeleteSidebarListElement.vue",
+    "imports": [
+      "iframe.html",
+      "_B3FH9UnZ.js"
+    ]
+  },
+  "_BXUyLzDv.js": {
+    "file": "_nuxt/BXUyLzDv.js",
+    "name": "ScalarHotkey.vue",
+    "imports": [
+      "iframe.html",
+      "_B3FH9UnZ.js"
+    ]
+  },
+  "_BcUnRul9.js": {
+    "file": "_nuxt/BcUnRul9.js",
+    "name": "axe",
+    "isDynamicEntry": true,
+    "imports": [
+      "_CqkleIqs.js"
+    ]
+  },
+  "_Bjgmnvuu.js": {
+    "file": "_nuxt/Bjgmnvuu.js",
+    "name": "client-only",
+    "imports": [
+      "iframe.html"
+    ]
+  },
+  "_BkHZvnPT.js": {
+    "file": "_nuxt/BkHZvnPT.js",
+    "name": "ViewLayout.vue",
+    "imports": [
+      "iframe.html",
+      "_B3FH9UnZ.js"
+    ]
+  },
+  "_BqaxccSC.js": {
+    "file": "_nuxt/BqaxccSC.js",
+    "name": "mediaTypes",
+    "imports": [
+      "iframe.html",
+      "_B3FH9UnZ.js"
+    ]
+  },
+  "_Btsz_ugX.js": {
+    "file": "_nuxt/Btsz_ugX.js",
+    "name": "Button",
+    "imports": [
+      "iframe.html",
+      "node_modules/@nuxt/icon/dist/runtime/components/index.js",
+      "_m9QqqGtk.js"
+    ]
+  },
+  "_BuuqbuEy.js": {
+    "file": "_nuxt/BuuqbuEy.js",
+    "name": "ViewLayoutContent.vue",
+    "imports": [
+      "iframe.html",
+      "_B3FH9UnZ.js"
+    ]
+  },
+  "_C-Oi6Aqa.js": {
+    "file": "_nuxt/C-Oi6Aqa.js",
+    "name": "EditSidebarListElement.vue",
+    "imports": [
+      "iframe.html",
+      "_B3FH9UnZ.js",
+      "_BLnBc-s6.js"
+    ]
+  },
+  "_C2sMB7W9.js": {
+    "file": "_nuxt/C2sMB7W9.js",
+    "name": "SidebarButton.vue",
+    "imports": [
+      "iframe.html",
+      "_B3FH9UnZ.js",
+      "_BXUyLzDv.js"
+    ]
+  },
+  "_C416NYd5.js": {
+    "file": "_nuxt/C416NYd5.js",
+    "name": "Form.vue",
+    "imports": [
+      "iframe.html",
+      "_B3FH9UnZ.js",
+      "_DH66uM0G.js"
+    ]
+  },
+  "_CABghJ7f.js": {
+    "file": "_nuxt/CABghJ7f.js",
+    "name": "EnvironmentModal.vue",
+    "imports": [
+      "iframe.html",
+      "_B3FH9UnZ.js",
+      "_BLnBc-s6.js",
+      "_DIjUcg-h.js"
+    ]
+  },
+  "_CC2ZZvVQ.js": {
+    "file": "_nuxt/CC2ZZvVQ.js",
+    "name": "IconSelector.vue",
+    "imports": [
+      "iframe.html",
+      "_B3FH9UnZ.js",
+      "_ZO99y9_i.js",
+      "_D-MxGC5M.js"
+    ]
+  },
+  "_CqkleIqs.js": {
+    "file": "_nuxt/CqkleIqs.js",
+    "name": "_commonjsHelpers"
+  },
+  "_D-MxGC5M.js": {
+    "file": "_nuxt/D-MxGC5M.js",
+    "name": "LibraryIcon.vue",
+    "imports": [
+      "iframe.html"
+    ]
+  },
+  "_D4_bcYGu.js": {
+    "file": "_nuxt/D4_bcYGu.js",
+    "name": "DataTableHeader.vue",
+    "imports": [
+      "iframe.html",
+      "_B3FH9UnZ.js"
+    ]
+  },
+  "_D7Tq2ZXZ.js": {
+    "file": "_nuxt/D7Tq2ZXZ.js",
+    "name": "EmptyState.vue",
+    "imports": [
+      "iframe.html",
+      "_8Bdf1-2c.js",
+      "_BXUyLzDv.js",
+      "_B3FH9UnZ.js"
+    ]
+  },
+  "_D9Z9MdNV.js": {
+    "file": "_nuxt/D9Z9MdNV.js",
+    "name": "preload-helper"
+  },
+  "_DH66uM0G.js": {
+    "file": "_nuxt/DH66uM0G.js",
+    "name": "ViewLayoutSection.vue",
+    "imports": [
+      "iframe.html",
+      "_B3FH9UnZ.js"
+    ]
+  },
+  "_DIjUcg-h.js": {
+    "file": "_nuxt/DIjUcg-h.js",
+    "name": "CommandActionInput.vue",
+    "imports": [
+      "iframe.html",
+      "_B3FH9UnZ.js"
+    ]
+  },
+  "_DtIUWtpy.js": {
+    "file": "_nuxt/DtIUWtpy.js",
+    "name": "DocsRenderer-PQXLIZUC",
+    "isDynamicEntry": true,
+    "imports": [
+      "_D9Z9MdNV.js",
+      "_CqkleIqs.js",
+      "iframe.html"
+    ],
+    "dynamicImports": [
+      "node_modules/@storybook/addon-docs/dist/Color-AVL7NMMY.mjs",
+      "node_modules/@mdx-js/react/index.js"
+    ]
+  },
+  "_ScalarApiReference.CrAIpIws.css": {
+    "file": "_nuxt/ScalarApiReference.CrAIpIws.css",
+    "src": "_ScalarApiReference.CrAIpIws.css"
+  },
+  "_ZO99y9_i.js": {
+    "file": "_nuxt/ZO99y9_i.js",
+    "name": "ScalarPopover.vue",
+    "imports": [
+      "iframe.html",
+      "_B3FH9UnZ.js"
+    ]
+  },
+  "_m9QqqGtk.js": {
+    "file": "_nuxt/m9QqqGtk.js",
+    "name": "ipx",
+    "imports": [
+      "iframe.html"
+    ]
+  },
+  "_n49bKN2p.js": {
+    "file": "_nuxt/n49bKN2p.js",
+    "name": "SidebarListElement.vue",
+    "imports": [
+      "iframe.html",
+      "_B3FH9UnZ.js",
+      "_BHYXsEvg.js",
+      "_BLnBc-s6.js"
+    ]
+  },
+  "_tnUYTV7I.js": {
+    "file": "_nuxt/tnUYTV7I.js",
+    "name": "ScalarToggle.vue",
+    "imports": [
+      "iframe.html",
+      "_B3FH9UnZ.js"
+    ]
+  },
+  "app/components/common/settings/languageSwitch.stories.ts": {
+    "file": "_nuxt/BumifCLH.js",
+    "name": "languageSwitch.stories",
+    "src": "app/components/common/settings/languageSwitch.stories.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_Btsz_ugX.js",
+      "iframe.html",
+      "node_modules/@nuxt/icon/dist/runtime/components/index.js",
+      "_m9QqqGtk.js",
+      "_D9Z9MdNV.js"
+    ]
+  },
+  "app/components/common/settings/themeSwitch.stories.ts": {
+    "file": "_nuxt/WW5qqNcZ.js",
+    "name": "themeSwitch.stories",
+    "src": "app/components/common/settings/themeSwitch.stories.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_Btsz_ugX.js",
+      "_Bjgmnvuu.js",
+      "iframe.html",
+      "node_modules/@nuxt/icon/dist/runtime/components/index.js",
+      "_m9QqqGtk.js",
+      "_D9Z9MdNV.js"
+    ]
+  },
+  "app/pages/docs/[...docsPath].vue": {
+    "file": "_nuxt/B3UT8B9P.js",
+    "name": "_...docsPath_",
+    "src": "app/pages/docs/[...docsPath].vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_B3FH9UnZ.js",
+      "iframe.html",
+      "_CqkleIqs.js",
+      "_D9Z9MdNV.js",
+      "_Bjgmnvuu.js",
+      "_m9QqqGtk.js"
+    ]
+  },
+  "app/pages/index.vue": {
+    "file": "_nuxt/CaNuWEsT.js",
+    "name": "index",
+    "src": "app/pages/index.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "iframe.html",
+      "_D9Z9MdNV.js"
+    ]
+  },
+  "app/pages/storybook/[...storybookPath].vue": {
+    "file": "_nuxt/CZEte48m.js",
+    "name": "_...storybookPath_",
+    "src": "app/pages/storybook/[...storybookPath].vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "iframe.html",
+      "_D9Z9MdNV.js"
+    ]
+  },
+  "i18n/locales/en.ts": {
+    "file": "_nuxt/CMOuXB2T.js",
+    "name": "en",
+    "src": "i18n/locales/en.ts",
+    "isDynamicEntry": true
+  },
+  "iframe.html": {
+    "file": "_nuxt/EtfM6F04.js",
+    "name": "iframe",
+    "src": "iframe.html",
+    "isEntry": true,
+    "imports": [
+      "_D9Z9MdNV.js"
+    ],
+    "dynamicImports": [
+      "app/components/common/settings/languageSwitch.stories.ts",
+      "app/components/common/settings/languageSwitch.stories.ts",
+      "app/components/common/settings/themeSwitch.stories.ts",
+      "app/components/common/settings/themeSwitch.stories.ts",
+      "app/pages/index.vue",
+      "app/pages/docs/[...docsPath].vue",
+      "app/pages/storybook/[...storybookPath].vue",
+      "node_modules/@scalar/nuxt/dist/runtime/pages/ScalarPage.vue",
+      "node_modules/@nuxt/icon/dist/runtime/components/index.js",
+      "i18n/locales/en.ts",
+      "_DtIUWtpy.js",
+      "_BcUnRul9.js",
+      "node_modules/@storybook/addon-a11y/dist/matchers-7Z3WT2CE.mjs"
+    ],
+    "css": [
+      "_nuxt/iframe.DPfn1w8T.css"
+    ]
+  },
+  "node_modules/@mdx-js/react/index.js": {
+    "file": "_nuxt/PAtTNNrK.js",
+    "name": "index",
+    "src": "node_modules/@mdx-js/react/index.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_DtIUWtpy.js",
+      "_D9Z9MdNV.js",
+      "_CqkleIqs.js",
+      "iframe.html"
+    ]
+  },
+  "node_modules/@nuxt/icon/dist/runtime/components/index.js": {
+    "file": "_nuxt/BPqq2KAX.js",
+    "name": "index",
+    "src": "node_modules/@nuxt/icon/dist/runtime/components/index.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "iframe.html",
+      "_D9Z9MdNV.js"
+    ]
+  },
+  "node_modules/@scalar/api-client/dist/views/Collection/Collection.vue.js": {
+    "file": "_nuxt/DQ9jZEMW.js",
+    "name": "Collection.vue",
+    "src": "node_modules/@scalar/api-client/dist/views/Collection/Collection.vue.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "iframe.html",
+      "_B3FH9UnZ.js",
+      "_BkHZvnPT.js",
+      "_DH66uM0G.js",
+      "_D-MxGC5M.js",
+      "_CC2ZZvVQ.js",
+      "_D9Z9MdNV.js",
+      "_CqkleIqs.js",
+      "_Bjgmnvuu.js",
+      "_m9QqqGtk.js",
+      "_ZO99y9_i.js"
+    ]
+  },
+  "node_modules/@scalar/api-client/dist/views/Collection/CollectionAuthentication.vue.js": {
+    "file": "_nuxt/DC6e1cHk.js",
+    "name": "CollectionAuthentication.vue",
+    "src": "node_modules/@scalar/api-client/dist/views/Collection/CollectionAuthentication.vue.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "iframe.html",
+      "_B3FH9UnZ.js",
+      "_tnUYTV7I.js",
+      "_D9Z9MdNV.js",
+      "_CqkleIqs.js",
+      "_Bjgmnvuu.js",
+      "_m9QqqGtk.js"
+    ]
+  },
+  "node_modules/@scalar/api-client/dist/views/Collection/CollectionCookies.vue.js": {
+    "file": "_nuxt/BCQ6tRss.js",
+    "name": "CollectionCookies.vue",
+    "src": "node_modules/@scalar/api-client/dist/views/Collection/CollectionCookies.vue.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "iframe.html",
+      "_DH66uM0G.js",
+      "_D9Z9MdNV.js",
+      "_B3FH9UnZ.js",
+      "_CqkleIqs.js",
+      "_Bjgmnvuu.js",
+      "_m9QqqGtk.js"
+    ]
+  },
+  "node_modules/@scalar/api-client/dist/views/Collection/CollectionEnvironment.vue.js": {
+    "file": "_nuxt/CsY9unnS.js",
+    "name": "CollectionEnvironment.vue",
+    "src": "node_modules/@scalar/api-client/dist/views/Collection/CollectionEnvironment.vue.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "iframe.html",
+      "_B3FH9UnZ.js",
+      "_BHYXsEvg.js",
+      "_BLnBc-s6.js",
+      "_C-Oi6Aqa.js",
+      "_DH66uM0G.js",
+      "_CABghJ7f.js",
+      "_D4_bcYGu.js",
+      "_D9Z9MdNV.js",
+      "_CqkleIqs.js",
+      "_Bjgmnvuu.js",
+      "_m9QqqGtk.js",
+      "_DIjUcg-h.js"
+    ]
+  },
+  "node_modules/@scalar/api-client/dist/views/Collection/CollectionOverview.vue.js": {
+    "file": "_nuxt/BEuUnnMi.js",
+    "name": "CollectionOverview.vue",
+    "src": "node_modules/@scalar/api-client/dist/views/Collection/CollectionOverview.vue.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "iframe.html",
+      "_DH66uM0G.js",
+      "_B3FH9UnZ.js",
+      "_D9Z9MdNV.js",
+      "_CqkleIqs.js",
+      "_Bjgmnvuu.js",
+      "_m9QqqGtk.js"
+    ]
+  },
+  "node_modules/@scalar/api-client/dist/views/Collection/CollectionScripts.vue.js": {
+    "file": "_nuxt/Dp6m8kx6.js",
+    "name": "CollectionScripts.vue",
+    "src": "node_modules/@scalar/api-client/dist/views/Collection/CollectionScripts.vue.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "iframe.html",
+      "_DH66uM0G.js",
+      "_D9Z9MdNV.js",
+      "_B3FH9UnZ.js",
+      "_CqkleIqs.js",
+      "_Bjgmnvuu.js",
+      "_m9QqqGtk.js"
+    ]
+  },
+  "node_modules/@scalar/api-client/dist/views/Collection/CollectionServers.vue.js": {
+    "file": "_nuxt/DWMc_HKL.js",
+    "name": "CollectionServers.vue",
+    "src": "node_modules/@scalar/api-client/dist/views/Collection/CollectionServers.vue.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "iframe.html",
+      "_B3FH9UnZ.js",
+      "_BLnBc-s6.js",
+      "_C416NYd5.js",
+      "_D9Z9MdNV.js",
+      "_CqkleIqs.js",
+      "_Bjgmnvuu.js",
+      "_m9QqqGtk.js",
+      "_DH66uM0G.js"
+    ]
+  },
+  "node_modules/@scalar/api-client/dist/views/Collection/CollectionSettings.vue.js": {
+    "file": "_nuxt/BxQdHZv0.js",
+    "name": "CollectionSettings.vue",
+    "src": "node_modules/@scalar/api-client/dist/views/Collection/CollectionSettings.vue.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "iframe.html",
+      "_B3FH9UnZ.js",
+      "_tnUYTV7I.js",
+      "_BLnBc-s6.js",
+      "_D9Z9MdNV.js",
+      "_CqkleIqs.js",
+      "_Bjgmnvuu.js",
+      "_m9QqqGtk.js"
+    ]
+  },
+  "node_modules/@scalar/api-client/dist/views/Collection/CollectionSync.vue.js": {
+    "file": "_nuxt/CwbnJDPk.js",
+    "name": "CollectionSync.vue",
+    "src": "node_modules/@scalar/api-client/dist/views/Collection/CollectionSync.vue.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "iframe.html",
+      "_DH66uM0G.js",
+      "_D9Z9MdNV.js",
+      "_B3FH9UnZ.js",
+      "_CqkleIqs.js",
+      "_Bjgmnvuu.js",
+      "_m9QqqGtk.js"
+    ]
+  },
+  "node_modules/@scalar/api-client/dist/views/Cookies/Cookies.vue.js": {
+    "file": "_nuxt/D2y6I0_L.js",
+    "name": "Cookies.vue",
+    "src": "node_modules/@scalar/api-client/dist/views/Cookies/Cookies.vue.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "iframe.html",
+      "_B3FH9UnZ.js",
+      "_D7Tq2ZXZ.js",
+      "_C2sMB7W9.js",
+      "_n49bKN2p.js",
+      "_BkHZvnPT.js",
+      "_BuuqbuEy.js",
+      "_DH66uM0G.js",
+      "_C416NYd5.js",
+      "_DIjUcg-h.js",
+      "_D9Z9MdNV.js",
+      "_CqkleIqs.js",
+      "_Bjgmnvuu.js",
+      "_m9QqqGtk.js",
+      "_8Bdf1-2c.js",
+      "_BXUyLzDv.js",
+      "_BHYXsEvg.js",
+      "_BLnBc-s6.js"
+    ]
+  },
+  "node_modules/@scalar/api-client/dist/views/Environment/Environment.vue.js": {
+    "file": "_nuxt/BL2GtgD4.js",
+    "name": "Environment.vue",
+    "src": "node_modules/@scalar/api-client/dist/views/Environment/Environment.vue.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "iframe.html",
+      "_B3FH9UnZ.js",
+      "_D-MxGC5M.js",
+      "_C-Oi6Aqa.js",
+      "_C2sMB7W9.js",
+      "_n49bKN2p.js",
+      "_BkHZvnPT.js",
+      "_BuuqbuEy.js",
+      "_DH66uM0G.js",
+      "_CABghJ7f.js",
+      "_D9Z9MdNV.js",
+      "_CqkleIqs.js",
+      "_Bjgmnvuu.js",
+      "_m9QqqGtk.js",
+      "_BLnBc-s6.js",
+      "_BXUyLzDv.js",
+      "_BHYXsEvg.js",
+      "_DIjUcg-h.js"
+    ]
+  },
+  "node_modules/@scalar/api-client/dist/views/Request/Request.vue.js": {
+    "file": "_nuxt/BE4vZuIq.js",
+    "name": "Request.vue",
+    "src": "node_modules/@scalar/api-client/dist/views/Request/Request.vue.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "iframe.html",
+      "_D7Tq2ZXZ.js",
+      "_BkHZvnPT.js",
+      "_BuuqbuEy.js",
+      "_B3FH9UnZ.js",
+      "_BqaxccSC.js",
+      "_DH66uM0G.js",
+      "_D4_bcYGu.js",
+      "_ZO99y9_i.js",
+      "_8Bdf1-2c.js",
+      "_BXUyLzDv.js",
+      "_D9Z9MdNV.js",
+      "_CqkleIqs.js",
+      "_Bjgmnvuu.js",
+      "_m9QqqGtk.js"
+    ]
+  },
+  "node_modules/@scalar/api-client/dist/views/Request/RequestRoot.vue.js": {
+    "file": "_nuxt/Del3FKp5.js",
+    "name": "RequestRoot.vue",
+    "src": "node_modules/@scalar/api-client/dist/views/Request/RequestRoot.vue.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "iframe.html",
+      "_B3FH9UnZ.js",
+      "_D-MxGC5M.js",
+      "_BqaxccSC.js",
+      "_8Bdf1-2c.js",
+      "_C2sMB7W9.js",
+      "_BLnBc-s6.js",
+      "_C-Oi6Aqa.js",
+      "_CC2ZZvVQ.js",
+      "_BHYXsEvg.js",
+      "_D9Z9MdNV.js",
+      "_CqkleIqs.js",
+      "_Bjgmnvuu.js",
+      "_m9QqqGtk.js",
+      "_BXUyLzDv.js",
+      "_ZO99y9_i.js"
+    ]
+  },
+  "node_modules/@scalar/api-client/dist/views/Settings/Settings.vue.js": {
+    "file": "_nuxt/CiuVoxaW.js",
+    "name": "Settings.vue",
+    "src": "node_modules/@scalar/api-client/dist/views/Settings/Settings.vue.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "iframe.html",
+      "_BkHZvnPT.js",
+      "_BuuqbuEy.js",
+      "_B3FH9UnZ.js",
+      "_D9Z9MdNV.js",
+      "_CqkleIqs.js",
+      "_Bjgmnvuu.js",
+      "_m9QqqGtk.js"
+    ]
+  },
+  "node_modules/@scalar/nuxt/dist/runtime/pages/ScalarPage.vue": {
+    "file": "_nuxt/COomru-2.js",
+    "name": "ScalarPage",
+    "src": "node_modules/@scalar/nuxt/dist/runtime/pages/ScalarPage.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_B3FH9UnZ.js",
+      "iframe.html",
+      "_m9QqqGtk.js",
+      "_CqkleIqs.js",
+      "_D9Z9MdNV.js",
+      "_Bjgmnvuu.js"
+    ]
+  },
+  "node_modules/@storybook/addon-a11y/dist/matchers-7Z3WT2CE.mjs": {
+    "file": "_nuxt/CcSi9QFY.js",
+    "name": "matchers-7Z3WT2CE",
+    "src": "node_modules/@storybook/addon-a11y/dist/matchers-7Z3WT2CE.mjs",
+    "isDynamicEntry": true
+  },
+  "node_modules/@storybook/addon-docs/dist/Color-AVL7NMMY.mjs": {
+    "file": "_nuxt/B3Md1x97.js",
+    "name": "Color-AVL7NMMY",
+    "src": "node_modules/@storybook/addon-docs/dist/Color-AVL7NMMY.mjs",
+    "isDynamicEntry": true,
+    "imports": [
+      "_DtIUWtpy.js",
+      "_D9Z9MdNV.js",
+      "_CqkleIqs.js",
+      "iframe.html"
+    ]
+  },
+  "node_modules/storybook/templates/mocker-runtime.template.js": {
+    "file": "vite-inject-mocker-entry.js",
+    "name": "vite-inject-mocker-entry",
+    "src": "node_modules/storybook/templates/mocker-runtime.template.js",
+    "isEntry": true,
+    "imports": [
+      "_D9Z9MdNV.js"
+    ]
+  }
+}

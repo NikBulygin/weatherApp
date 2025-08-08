@@ -1,0 +1,1 @@
+import{d as r,S as t,o as s,r as a,I as n,J as d,u as l}from"./EtfM6F04.js";import{u as i}from"./B3FH9UnZ.js";const p=r({__name:"ViewLayout",setup(m){const{cx:e}=i();return(o,f)=>(s(),t("div",n(d(l(e)("flex flex-col min-h-0 flex-1 *:border-t first:*:border-t-0 md:*:border-t-0 xl:overflow-hidden md:flex-row leading-3"))),[a(o.$slots,"default")],16))}});export{p as u};

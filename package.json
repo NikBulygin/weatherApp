@@ -7,17 +7,33 @@
     "dev": "nuxt dev",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
-    "postinstall": "nuxt prepare"
+    "postinstall": "nuxt prepare",
+    "storybook": "storybook dev -p 6006",
+    "build-storybook": "storybook build",
+    "prebuild": "bun run build-storybook && bun run copy-storybook",
+    "copy-storybook": "if [ \"$COPY_TO_DIST\" = \"true\" ]; then rm -rf dist/storybook && mkdir -p dist/storybook && cp -r storybook-static/* dist/storybook/; else rm -rf public/storybook && mkdir -p public/storybook && cp -r storybook-static/* public/storybook/; fi",
+    "postbuild": "echo 'Postbuild script started' && echo 'BUILD_STORYBOOK=$BUILD_STORYBOOK' && echo 'COPY_TO_DIST=$COPY_TO_DIST' && if [ \"$BUILD_STORYBOOK\" = \"true\" ]; then echo 'Copying storybook...' && bun run copy-storybook; fi && if [ \"$COPY_TO_DIST\" = \"true\" ] && [ -d \".output/public\" ]; then echo 'Copying to dist...' && mkdir -p dist && cp -r .output/public/* dist/ && echo 'Dist folder contents:' && ls -la dist/; elif [ \"$COPY_TO_DIST\" = \"true\" ]; then echo 'Warning: .output/public not found, skipping dist copy'; fi && echo 'Postbuild script finished'"
   },
   "dependencies": {
     "@nuxt/eslint": "1.8.0",
     "@nuxt/image": "1.11.0",
     "@nuxt/test-utils": "3.19.2",
     "@nuxt/ui": "3.3.0",
+    "@nuxtjs/i18n": "10.0.3",
+    "ajv": "^8.17.1",
     "eslint": "^9.0.0",
     "nuxt": "^4.0.1",
     "typescript": "^5.6.3",
     "vue": "^3.5.18",
     "vue-router": "^4.5.1"
+  },
+  "devDependencies": {
+    "@chromatic-com/storybook": "^4.1.0",
+    "@nuxtjs/storybook": "^8.4.1",
+    "@storybook/addon-a11y": "^9.1.1",
+    "@storybook/addon-docs": "^9.1.1",
+    "@storybook/addon-vitest": "^9.1.1",
+    "eslint-plugin-storybook": "^9.1.1",
+    "storybook": "^9.1.1"
   }
 }
