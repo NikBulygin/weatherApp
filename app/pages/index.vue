@@ -17,20 +17,6 @@
       range="day"
     />
 
-    <WeatherView
-      v-if="SelectLocation"
-      :latitude="SelectLocation.latitude"
-      :longitude="SelectLocation.longitude"
-      range="week"
-    />
-
- <WeatherView
-      v-if="SelectLocation"
-      :latitude="SelectLocation.latitude"
-      :longitude="SelectLocation.longitude"
-      range="week"
-    />
-    
 </template>
 
 <script setup lang="ts">
