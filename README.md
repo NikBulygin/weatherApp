@@ -1,5 +1,11 @@
 # Weather Forecast Application
 
+Test task for **PyShop** — building a weather forecast application.
+
+ **Time Spent**: 2.4 hours
+
+This project demonstrates a simple Vue.js application that allows users to search for locations, select a place, and view weather forecasts by day, week, or month. It includes a clean layout, internationalization support, and a weather widget component structure.
+
 A Vue.js application that allows users to search for locations and display current weather conditions along with a daily forecast.
 
 ## Features

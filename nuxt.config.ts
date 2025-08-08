@@ -52,4 +52,11 @@ export default defineNuxtConfig({
       redirectOn: 'root',
     }
   },
+
+  runtimeConfig: {
+    public: {
+      geocoding_api: "https://maps.googleapis.com/maps/api/geocode/",
+      geocoding_api_key: process.env.GOOGLE_GEOCODING_API_KEY
+    }
+  }
 })
